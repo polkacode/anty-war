@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import java.sql.Time;
 import java.util.Random;
 
-/**
+/** #
  * Created by bender on 2.05.14.
  */
 public class anty extends JComponent implements ActionListener {
